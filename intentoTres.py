@@ -16,10 +16,10 @@ data = Dataset.load_from_df(df[['nombre', 'restaurante', 'calificacion']], reade
 model = SVD()
 
 # Definir un conjunto de hiperparámetros para probar con Grid Search
-param_grid = {'n_factors': [50, 100, 150],
-              'n_epochs': [40, 50],
+param_grid = {'n_factors': [150, 200, 250], #si se aumenta, debo tener más datos sino puede haber sobreajuste, 150, 200, 250 ok
+              'n_epochs': [5000, 5100],      # el sobre ajuste debo tenerle cuidado
               'lr_all': [0.015, 0.020],
-              'reg_all': [0.05, 0.01]}
+              'reg_all': [0.05, 0.01]} 
 
 # Realizar una búsqueda en cuadrícula con validación cruzada para encontrar los mejores hiperparámetros
 grid_search = GridSearchCV(SVD, param_grid, measures=['rmse', 'mae'], cv=5)

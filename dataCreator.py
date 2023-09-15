@@ -6,7 +6,22 @@ usuarios = [
     {"nombre": "Veronica", "preferencias": ["comida_vegetariana", "comida_italiana", "comida_mexicana"]},
     {"nombre": "Gustavo", "preferencias": ["comida_vegetariana", "comida_asiatica", "sushi"]},
     {"nombre": "Jennifer", "preferencias": ["comida_carnes", "comida_mexicana", "comida_italiana"]},
-    {"nombre": "Oscar", "preferencias": ["comida_rapida", "comida_asiatica", "comida_mexicana"]}
+    {"nombre": "Oscar", "preferencias": ["comida_rapida", "comida_asiatica", "comida_mexicana"]},
+    {"nombre": "Mauricio", "preferencias": ["comida_rapida", "comida_italiana", "comida_mexicana"]},
+    {"nombre": "Raquel", "preferencias": ["comida_vegetariana", "comida_italiana", "sushi"]},
+    {"nombre": "Minor", "preferencias": ["comida_vegetariana", "comida_asiatica", "sushi"]},
+    {"nombre": "Daniela", "preferencias": ["comida_carnes", "comida_mexicana", "comida_italiana"]},
+    {"nombre": "Jose", "preferencias": ["comida_rapida", "comida_asiatica", "comida_mexicana"]},
+    {"nombre": "Luis", "preferencias": ["comida_rapida", "comida_italiana", "sushi"]},
+    {"nombre": "Elena", "preferencias": ["comida_vegetariana", "comida_italiana", "comida_mexicana"]},
+    {"nombre": "Carlos", "preferencias": ["comida_vegetariana", "comida_asiatica", "sushi"]},
+    {"nombre": "Maria", "preferencias": ["comida_carnes", "comida_mexicana", "comida_italiana"]},
+    {"nombre": "Andres", "preferencias": ["comida_rapida", "comida_asiatica", "comida_mexicana"]},
+    {"nombre": "Laura", "preferencias": ["comida_rapida", "comida_italiana", "comida_mexicana"]},
+    {"nombre": "Pedro", "preferencias": ["comida_vegetariana", "comida_italiana", "sushi"]},
+    {"nombre": "Isabel", "preferencias": ["comida_vegetariana", "comida_asiatica", "sushi"]},
+    {"nombre": "Antonio", "preferencias": ["comida_carnes", "comida_mexicana", "comida_italiana"]},
+    {"nombre": "Ana", "preferencias": ["comida_rapida", "comida_asiatica", "comida_mexicana"]}
 ]
 
 # Lista de restaurantes y tipos de comida
@@ -24,13 +39,20 @@ restaurantes = [
     {"nombre": "Benvenuti Italia", "tipo_comida": ["comida_italiana"]},
     {"nombre": "Sushi Sensei", "tipo_comida": ["sushi"]},
     {"nombre": "Asian Flavor Fusion", "tipo_comida": ["comida_asiatica"]},
-    {"nombre": "Mexicanos ", "tipo_comida": ["comida_mexicana"]}
+    {"nombre": "Mexicanos", "tipo_comida": ["comida_mexicana"]},
+     {"nombre": "KFC", "tipo_comida": ["comida_rapida"]},
+    {"nombre": "Vegan food", "tipo_comida": ["comida_vegetariana"]},
+    {"nombre": "Braza novillo", "tipo_comida": ["comida_carnes"]},
+    {"nombre": "Venezia qui", "tipo_comida": ["comida_italiana"]},
+    {"nombre": "Noguchi sushi", "tipo_comida": ["sushi"]},
+    {"nombre": "Thai cuisine", "tipo_comida": ["comida_asiatica"]},
+    {"nombre": "Plato Azteca", "tipo_comida": ["comida_mexicana"]}
 ]
 
 # Función para generar calificaciones coherentes para un usuario
 def generar_calificaciones(usuario, registros):
     calificaciones = []
-    for _ in range(7):
+    for _ in range(12):
         # Elegir un restaurante al azar que no haya sido calificado previamente por el usuario
         restaurantes_no_calificados = [restaurante for restaurante in restaurantes if restaurante["nombre"] not in registros[usuario["nombre"]]]
         if not restaurantes_no_calificados:
