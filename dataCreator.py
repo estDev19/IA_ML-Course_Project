@@ -22,6 +22,28 @@ usuarios = [
     {"nombre": "Isabel", "preferencias": ["comida_vegetariana", "comida_asiatica", "sushi"]},
     {"nombre": "Antonio", "preferencias": ["comida_carnes", "comida_mexicana", "comida_italiana"]},
     {"nombre": "Ana", "preferencias": ["comida_rapida", "comida_asiatica", "comida_mexicana"]}
+    ###nuevos
+    ,
+    
+    {"nombre": "Alberto", "preferencias": ["comida_rapida", "comida_italiana", "sushi"]},
+    {"nombre": "Beatriz", "preferencias": ["comida_vegetariana", "comida_italiana", "comida_mexicana"]},
+    {"nombre": "Diana", "preferencias": ["comida_carnes", "comida_mexicana", "comida_italiana"]},
+    {"nombre": "Eduardo", "preferencias": ["comida_rapida", "comida_asiatica", "comida_mexicana"]},
+    {"nombre": "Fernanda", "preferencias": ["comida_rapida", "comida_italiana", "sushi"]},
+    {"nombre": "Gabriel", "preferencias": ["comida_vegetariana", "comida_italiana", "comida_mexicana"]},
+    {"nombre": "Hector", "preferencias": ["comida_vegetariana", "comida_asiatica", "sushi"]},
+    {"nombre": "Irene", "preferencias": ["comida_carnes", "comida_mexicana", "comida_italiana"]},
+    {"nombre": "Javier", "preferencias": ["comida_rapida", "comida_asiatica", "comida_mexicana"]},
+    {"nombre": "Karla", "preferencias": ["comida_rapida", "comida_italiana", "sushi"]},
+    {"nombre": "Luisa", "preferencias": ["comida_vegetariana", "comida_italiana", "comida_mexicana"]},
+    {"nombre": "Mario", "preferencias": ["comida_vegetariana", "comida_asiatica", "sushi"]},
+    {"nombre": "Natalia", "preferencias": ["comida_carnes", "comida_mexicana", "comida_italiana"]},
+    {"nombre": "Omar", "preferencias": ["comida_rapida", "comida_asiatica", "comida_mexicana"]},
+    {"nombre": "Patricia", "preferencias": ["comida_rapida", "comida_italiana", "sushi"]},
+    {"nombre": "Quintín", "preferencias": ["comida_vegetariana", "comida_italiana", "comida_mexicana"]},
+    {"nombre": "Rosa", "preferencias": ["comida_vegetariana", "comida_asiatica", "sushi"]},
+    {"nombre": "Sergio", "preferencias": ["comida_carnes", "comida_mexicana", "comida_italiana"]},
+    {"nombre": "Tania", "preferencias": ["comida_rapida", "comida_asiatica", "comida_mexicana"]}
 ]
 
 # Lista de restaurantes y tipos de comida
@@ -47,12 +69,36 @@ restaurantes = [
     {"nombre": "Noguchi sushi", "tipo_comida": ["sushi"]},
     {"nombre": "Thai cuisine", "tipo_comida": ["comida_asiatica"]},
     {"nombre": "Plato Azteca", "tipo_comida": ["comida_mexicana"]}
+    ###nuevos----
+    ,
+    {"nombre": "Burger King", "tipo_comida": ["comida_rapida"]},
+    {"nombre": "Vegetarian Delight", "tipo_comida": ["comida_vegetariana"]},
+    {"nombre": "Steakhouse Paradise", "tipo_comida": ["comida_carnes"]},
+    {"nombre": "Mama Mia", "tipo_comida": ["comida_italiana"]},
+    {"nombre": "Sushi Heaven", "tipo_comida": ["sushi"]},
+    {"nombre": "Asian Fusion Delights", "tipo_comida": ["comida_asiatica"]},
+    {"nombre": "Mexican Fiesta", "tipo_comida": ["comida_mexicana"]},
+    {"nombre": "Chicken Express", "tipo_comida": ["comida_rapida"]},
+    {"nombre": "Green Oasis", "tipo_comida": ["comida_vegetariana"]},
+    {"nombre": "Grill Masters", "tipo_comida": ["comida_carnes"]},
+    {"nombre": "Italian Elegance", "tipo_comida": ["comida_italiana"]},
+    {"nombre": "Sushi Masters", "tipo_comida": ["sushi"]},
+    {"nombre": "Far East Flavors", "tipo_comida": ["comida_asiatica"]},
+    {"nombre": "Mexican Delights", "tipo_comida": ["comida_mexicana"]},
+    {"nombre": "Fried Chicken Express", "tipo_comida": ["comida_rapida"]},
+    {"nombre": "Veggie Delights", "tipo_comida": ["comida_vegetariana"]},
+    {"nombre": "Grill House", "tipo_comida": ["comida_carnes"]},
+    {"nombre": "Italiano Bella", "tipo_comida": ["comida_italiana"]},
+    {"nombre": "Sushi Sensations", "tipo_comida": ["sushi"]},
+    {"nombre": "Taste of Asia", "tipo_comida": ["comida_asiatica"]},
+    {"nombre": "Guadalajara Platter", "tipo_comida": ["comida_mexicana"]}
+
 ]
 
 # Función para generar calificaciones coherentes para un usuario
 def generar_calificaciones(usuario, registros):
     calificaciones = []
-    for _ in range(12):
+    for _ in range(26):
         # Elegir un restaurante al azar que no haya sido calificado previamente por el usuario
         restaurantes_no_calificados = [restaurante for restaurante in restaurantes if restaurante["nombre"] not in registros[usuario["nombre"]]]
         if not restaurantes_no_calificados:

@@ -1,241 +1,1013 @@
 nombre,restaurante,calificacion
-Rafael,Asian Flavor Fusion,3
-Rafael,Benvenuti Italia,5
-Rafael,KFC,4
-Rafael,Italianissimo,5
-Rafael,Mexicanos,1
-Rafael,Noguchi sushi,4
-Rafael,Sushi Sensei,4
-Rafael,Braza novillo,3
-Rafael,Patio verde,1
-Rafael,Sakura Japanise,5
-Rafael,Vegan food,3
-Rafael,Taj Mahal,2
-Veronica,Noguchi sushi,1
-Veronica,TacoBell,1
-Veronica,Venezia qui,4
-Veronica,Italianissimo,4
-Veronica,McDonalds,3
-Veronica,Taj Mahal,1
-Veronica,Sakura Japanise,3
+Rafael,Sushi Heaven,5
+Rafael,Asian Flavor Fusion,1
+Rafael,Burger King,5
+Rafael,Patio verde,3
+Rafael,Grill House,1
+Rafael,Thai cuisine,3
+Rafael,Green Oasis,3
+Rafael,KFC,5
+Rafael,TacoBell,4
+Rafael,Fried Chicken Express,5
+Rafael,Ajua restaurante,3
+Rafael,Benvenuti Italia,4
+Rafael,Taste of Asia,2
+Rafael,Chicken Express,5
+Rafael,Mexican Fiesta,2
+Rafael,Far East Flavors,3
+Rafael,Braza novillo,2
+Rafael,Mexicanos,3
+Rafael,McDonalds,5
+Rafael,Taj Mahal,1
+Rafael,Venezia qui,4
+Rafael,Guadalajara Platter,1
+Rafael,Italian Elegance,5
+Rafael,Vegetarian Delight,3
+Veronica,Green Oasis,5
+Veronica,Mexicanos,4
 Veronica,Plato Azteca,5
-Veronica,Patio verde,4
-Veronica,Benvenuti Italia,5
+Veronica,Italiano Bella,5
+Veronica,Burger King,1
+Veronica,Chicken Express,1
+Veronica,Far East Flavors,3
+Veronica,Thai cuisine,2
+Veronica,Vegan food,4
+Veronica,El novillo alegre,2
+Veronica,Sushi Sensei,1
 Veronica,La Parrilla Argentina,3
-Veronica,Braza novillo,3
-Gustavo,Sushi Sensei,4
-Gustavo,Braza novillo,1
-Gustavo,Noguchi sushi,5
-Gustavo,Benvenuti Italia,2
-Gustavo,TacoBell,3
-Gustavo,Venezia qui,1
-Gustavo,Vegan food,5
-Gustavo,Sakura Japanise,4
+Veronica,Vegetarian Delight,5
+Veronica,Asian Fusion Delights,3
+Veronica,Taj Mahal,1
+Veronica,Sushi Heaven,2
+Veronica,Italian Elegance,4
+Veronica,Guadalajara Platter,4
+Veronica,Ajua restaurante,5
+Veronica,Veggie Delights,4
+Veronica,McDonalds,2
+Veronica,Sushi Sensations,2
+Veronica,Italianissimo,4
+Veronica,Benvenuti Italia,5
+Veronica,Braza novillo,2
+Veronica,Venezia qui,4
+Gustavo,Green Oasis,4
 Gustavo,Taj Mahal,4
-Gustavo,Plato Azteca,3
+Gustavo,Venezia qui,2
+Gustavo,Fried Chicken Express,1
+Gustavo,Burger King,1
+Gustavo,Plato Azteca,2
+Gustavo,Steakhouse Paradise,3
+Gustavo,Sushi Masters,5
+Gustavo,La Parrilla Argentina,3
+Gustavo,Mexicanos,1
+Gustavo,Mexican Fiesta,1
+Gustavo,Sushi Sensations,4
+Gustavo,Grill House,3
+Gustavo,Grill Masters,1
+Gustavo,Patio verde,4
+Gustavo,Italian Elegance,2
+Gustavo,Far East Flavors,5
+Gustavo,Sushi Heaven,4
+Gustavo,Guadalajara Platter,2
 Gustavo,Ajua restaurante,2
+Gustavo,Green leaf,4
 Gustavo,Thai cuisine,5
-Jennifer,Italianissimo,5
-Jennifer,Vegan food,1
-Jennifer,La Parrilla Argentina,4
-Jennifer,Patio verde,3
-Jennifer,Braza novillo,5
-Jennifer,Thai cuisine,3
+Gustavo,Taste of Asia,4
+Gustavo,El novillo alegre,3
+Gustavo,Chicken Express,2
+Gustavo,Asian Fusion Delights,4
+Jennifer,Sushi Sensations,2
+Jennifer,Noguchi sushi,3
+Jennifer,Mexican Fiesta,5
+Jennifer,Italian Elegance,4
+Jennifer,Green Oasis,3
+Jennifer,Plato Azteca,4
+Jennifer,Vegetarian Delight,3
+Jennifer,Thai cuisine,2
+Jennifer,Sushi Masters,2
+Jennifer,Steakhouse Paradise,4
+Jennifer,Grill House,5
+Jennifer,Italiano Bella,5
+Jennifer,El novillo alegre,5
+Jennifer,Guadalajara Platter,5
+Jennifer,Grill Masters,5
 Jennifer,McDonalds,3
-Jennifer,KFC,1
+Jennifer,KFC,3
+Jennifer,Sakura Japanise,2
+Jennifer,TacoBell,3
+Jennifer,Chicken Express,2
+Jennifer,Patio verde,1
 Jennifer,Asian Flavor Fusion,1
-Jennifer,TacoBell,1
-Jennifer,Venezia qui,5
-Jennifer,Noguchi sushi,2
+Jennifer,Vegan food,3
+Jennifer,Fried Chicken Express,1
+Jennifer,Taste of Asia,2
+Jennifer,La Parrilla Argentina,4
+Oscar,La Parrilla Argentina,3
+Oscar,Italian Elegance,2
+Oscar,Braza novillo,3
+Oscar,Mexican Fiesta,5
+Oscar,Italianissimo,1
+Oscar,Noguchi sushi,3
+Oscar,Patio verde,1
+Oscar,Mama Mia,3
+Oscar,Taste of Asia,5
+Oscar,Sushi Masters,2
+Oscar,Ajua restaurante,5
+Oscar,Taj Mahal,5
+Oscar,Steakhouse Paradise,3
+Oscar,Vegetarian Delight,2
+Oscar,Burger King,4
+Oscar,Asian Fusion Delights,5
+Oscar,Green Oasis,3
+Oscar,TacoBell,5
+Oscar,Thai cuisine,4
+Oscar,Veggie Delights,2
+Oscar,Chicken Express,5
+Oscar,Sushi Heaven,3
 Oscar,Venezia qui,3
 Oscar,Plato Azteca,5
-Oscar,Italianissimo,2
-Oscar,La Parrilla Argentina,2
+Oscar,Guadalajara Platter,5
 Oscar,Benvenuti Italia,1
-Oscar,Sushi Sensei,1
-Oscar,Patio verde,3
-Oscar,McDonalds,4
-Oscar,Thai cuisine,4
-Oscar,Sakura Japanise,2
-Oscar,Green leaf,3
-Oscar,Vegan food,2
-Mauricio,La Parrilla Argentina,3
-Mauricio,Benvenuti Italia,4
-Mauricio,Venezia qui,4
-Mauricio,Thai cuisine,2
-Mauricio,Ajua restaurante,5
-Mauricio,Vegan food,1
-Mauricio,Green leaf,1
+Mauricio,Taste of Asia,3
+Mauricio,Sakura Japanise,1
+Mauricio,Chicken Express,4
+Mauricio,Mexican Delights,4
+Mauricio,Vegan food,2
+Mauricio,Veggie Delights,1
 Mauricio,TacoBell,4
-Mauricio,Taj Mahal,1
-Mauricio,Patio verde,2
-Mauricio,Sakura Japanise,3
-Mauricio,Sushi Sensei,1
+Mauricio,Grill House,1
+Mauricio,Mama Mia,5
+Mauricio,Patio verde,1
+Mauricio,Mexican Fiesta,4
+Mauricio,KFC,5
+Mauricio,Vegetarian Delight,3
+Mauricio,Italian Elegance,4
+Mauricio,Italianissimo,5
+Mauricio,Sushi Sensations,2
+Mauricio,Thai cuisine,2
+Mauricio,Green Oasis,3
+Mauricio,Plato Azteca,5
+Mauricio,Guadalajara Platter,5
+Mauricio,Sushi Sensei,3
+Mauricio,Grill Masters,2
+Mauricio,El novillo alegre,3
+Mauricio,Far East Flavors,3
+Mauricio,Asian Fusion Delights,1
+Mauricio,Green leaf,3
+Raquel,Asian Flavor Fusion,1
+Raquel,Mexican Delights,2
+Raquel,Thai cuisine,3
 Raquel,Braza novillo,3
-Raquel,Mexicanos,1
-Raquel,Italianissimo,5
-Raquel,Thai cuisine,2
-Raquel,Taj Mahal,1
-Raquel,Noguchi sushi,4
+Raquel,Veggie Delights,5
+Raquel,Sushi Sensei,4
+Raquel,Mama Mia,4
+Raquel,El novillo alegre,1
+Raquel,Steakhouse Paradise,3
+Raquel,Mexicanos,2
+Raquel,Fried Chicken Express,3
+Raquel,Far East Flavors,3
+Raquel,Taste of Asia,1
+Raquel,Venezia qui,5
+Raquel,TacoBell,1
+Raquel,Mexican Fiesta,2
+Raquel,Benvenuti Italia,5
+Raquel,KFC,1
+Raquel,Italian Elegance,4
+Raquel,Noguchi sushi,5
 Raquel,McDonalds,2
-Raquel,Benvenuti Italia,4
-Raquel,Plato Azteca,2
-Raquel,La Parrilla Argentina,3
-Raquel,Sushi Sensei,5
-Raquel,Patio verde,4
+Raquel,Taj Mahal,3
+Raquel,Grill Masters,3
+Raquel,Ajua restaurante,3
+Raquel,Sakura Japanise,4
+Raquel,Sushi Sensations,4
+Minor,Ajua restaurante,3
+Minor,Grill Masters,2
+Minor,Venezia qui,1
+Minor,Benvenuti Italia,2
+Minor,Sushi Heaven,5
 Minor,Patio verde,5
-Minor,La Parrilla Argentina,3
-Minor,Venezia qui,2
-Minor,KFC,3
-Minor,Sakura Japanise,5
-Minor,Mexicanos,2
-Minor,Italianissimo,2
-Minor,McDonalds,2
+Minor,TacoBell,2
+Minor,Plato Azteca,2
+Minor,La Parrilla Argentina,2
+Minor,Mexicanos,1
+Minor,Sushi Masters,4
+Minor,Italianissimo,3
+Minor,El novillo alegre,1
+Minor,Taste of Asia,5
+Minor,Grill House,3
+Minor,Sushi Sensations,5
+Minor,Mexican Fiesta,3
+Minor,Veggie Delights,5
+Minor,Sushi Sensei,5
+Minor,Vegan food,4
+Minor,Green Oasis,5
+Minor,Mama Mia,2
+Minor,Steakhouse Paradise,1
 Minor,Asian Flavor Fusion,4
-Minor,Taj Mahal,4
-Minor,Thai cuisine,4
-Minor,Noguchi sushi,5
-Daniela,Sakura Japanise,2
+Minor,Fried Chicken Express,2
+Minor,Italian Elegance,3
+Daniela,Taj Mahal,3
+Daniela,Burger King,2
+Daniela,Sushi Sensei,2
+Daniela,Taste of Asia,3
+Daniela,Green leaf,2
+Daniela,Far East Flavors,3
+Daniela,Italian Elegance,4
+Daniela,Asian Flavor Fusion,1
+Daniela,Benvenuti Italia,4
+Daniela,Mama Mia,4
+Daniela,Vegetarian Delight,1
+Daniela,Grill Masters,5
+Daniela,Vegan food,2
+Daniela,Fried Chicken Express,3
+Daniela,Venezia qui,4
+Daniela,Mexican Fiesta,5
+Daniela,Sushi Heaven,1
+Daniela,Patio verde,2
+Daniela,Grill House,5
+Daniela,Green Oasis,3
 Daniela,Plato Azteca,4
-Daniela,Braza novillo,4
-Daniela,Taj Mahal,2
-Daniela,Benvenuti Italia,5
-Daniela,La Parrilla Argentina,4
-Daniela,Thai cuisine,3
-Daniela,TacoBell,2
-Daniela,KFC,1
-Daniela,Ajua restaurante,4
-Daniela,McDonalds,2
-Daniela,Noguchi sushi,1
-Jose,KFC,5
-Jose,Green leaf,3
-Jose,Patio verde,3
-Jose,Ajua restaurante,5
-Jose,El novillo alegre,1
-Jose,Sushi Sensei,2
-Jose,Vegan food,1
-Jose,Venezia qui,1
+Daniela,Mexican Delights,4
+Daniela,Guadalajara Platter,5
+Daniela,Sakura Japanise,2
+Daniela,Chicken Express,1
+Daniela,McDonalds,3
+Jose,Benvenuti Italia,3
+Jose,Noguchi sushi,1
+Jose,La Parrilla Argentina,1
+Jose,Sushi Masters,3
+Jose,Taste of Asia,4
+Jose,Sakura Japanise,2
+Jose,Italiano Bella,1
+Jose,Sushi Heaven,1
 Jose,Mexicanos,5
-Jose,Noguchi sushi,2
+Jose,Steakhouse Paradise,2
+Jose,Taj Mahal,4
+Jose,Mexican Fiesta,5
 Jose,Thai cuisine,5
-Jose,TacoBell,5
-Luis,Noguchi sushi,4
-Luis,Ajua restaurante,2
-Luis,Braza novillo,1
-Luis,Mexicanos,3
-Luis,Green leaf,3
-Luis,Plato Azteca,2
-Luis,TacoBell,5
-Luis,McDonalds,5
-Luis,Patio verde,2
-Luis,Taj Mahal,2
-Luis,Thai cuisine,1
+Jose,Fried Chicken Express,5
+Jose,Far East Flavors,4
+Jose,KFC,4
+Jose,Green leaf,3
+Jose,Ajua restaurante,5
+Jose,Chicken Express,4
+Jose,Braza novillo,2
+Jose,Sushi Sensations,2
+Jose,Asian Fusion Delights,4
+Jose,Vegetarian Delight,3
+Jose,Green Oasis,1
+Jose,Italianissimo,2
+Jose,Guadalajara Platter,5
+Luis,Asian Flavor Fusion,3
+Luis,Steakhouse Paradise,3
 Luis,Italianissimo,4
-Elena,Noguchi sushi,3
+Luis,Grill Masters,1
+Luis,Guadalajara Platter,1
+Luis,Ajua restaurante,1
+Luis,La Parrilla Argentina,3
+Luis,El novillo alegre,2
+Luis,Sushi Sensations,4
+Luis,Thai cuisine,2
+Luis,Mexican Delights,2
+Luis,Burger King,5
+Luis,Green leaf,1
+Luis,Plato Azteca,2
+Luis,Chicken Express,4
+Luis,Green Oasis,1
+Luis,Sakura Japanise,4
+Luis,Braza novillo,1
+Luis,Italian Elegance,5
+Luis,Veggie Delights,3
+Luis,Italiano Bella,5
+Luis,Fried Chicken Express,4
+Luis,Mexican Fiesta,2
+Luis,Taj Mahal,3
+Luis,TacoBell,5
+Luis,Far East Flavors,1
+Elena,Sushi Sensei,1
+Elena,Steakhouse Paradise,2
+Elena,Mexicanos,4
+Elena,Ajua restaurante,5
+Elena,Asian Flavor Fusion,3
+Elena,Guadalajara Platter,5
 Elena,Braza novillo,2
-Elena,Mexicanos,5
-Elena,Taj Mahal,2
-Elena,Sushi Sensei,3
+Elena,Taj Mahal,3
+Elena,Green Oasis,5
+Elena,Vegetarian Delight,5
+Elena,Sushi Masters,1
+Elena,Plato Azteca,5
+Elena,Asian Fusion Delights,3
+Elena,La Parrilla Argentina,1
+Elena,Veggie Delights,4
+Elena,Far East Flavors,1
+Elena,McDonalds,1
 Elena,El novillo alegre,2
-Elena,Venezia qui,4
+Elena,Mama Mia,4
 Elena,KFC,1
-Elena,Italianissimo,5
-Elena,Asian Flavor Fusion,2
-Elena,Patio verde,5
 Elena,TacoBell,2
+Elena,Vegan food,5
+Elena,Venezia qui,5
+Elena,Sushi Heaven,1
+Elena,Thai cuisine,3
+Elena,Patio verde,5
+Carlos,Sushi Sensations,5
+Carlos,Italiano Bella,1
+Carlos,Chicken Express,2
+Carlos,Ajua restaurante,2
+Carlos,Vegetarian Delight,5
+Carlos,Far East Flavors,5
+Carlos,Grill House,1
+Carlos,Sushi Heaven,5
+Carlos,Venezia qui,2
+Carlos,La Parrilla Argentina,1
+Carlos,Green Oasis,4
+Carlos,Plato Azteca,2
+Carlos,Grill Masters,1
+Carlos,Braza novillo,1
 Carlos,Thai cuisine,4
-Carlos,Braza novillo,3
-Carlos,Sakura Japanise,5
-Carlos,La Parrilla Argentina,3
-Carlos,TacoBell,3
-Carlos,Benvenuti Italia,3
-Carlos,Ajua restaurante,1
-Carlos,Plato Azteca,3
-Carlos,Taj Mahal,4
-Carlos,McDonalds,1
-Carlos,El novillo alegre,3
-Carlos,Mexicanos,2
+Carlos,Veggie Delights,4
+Carlos,Sushi Masters,4
+Carlos,Asian Fusion Delights,5
+Carlos,Mexicanos,3
+Carlos,Asian Flavor Fusion,5
+Carlos,Benvenuti Italia,2
+Carlos,Burger King,3
+Carlos,Vegan food,4
+Carlos,McDonalds,2
+Carlos,Italian Elegance,2
+Carlos,Guadalajara Platter,2
+Maria,Vegetarian Delight,2
+Maria,Asian Fusion Delights,2
+Maria,Green leaf,2
 Maria,Asian Flavor Fusion,3
-Maria,Benvenuti Italia,4
-Maria,Ajua restaurante,4
-Maria,Noguchi sushi,1
-Maria,La Parrilla Argentina,4
-Maria,Mexicanos,4
-Maria,Sakura Japanise,1
-Maria,McDonalds,2
+Maria,Taj Mahal,3
 Maria,TacoBell,1
+Maria,Mexicanos,4
+Maria,Guadalajara Platter,5
+Maria,Sushi Sensei,3
+Maria,Far East Flavors,1
+Maria,Sushi Sensations,1
+Maria,Sushi Heaven,1
+Maria,Italian Elegance,5
+Maria,Ajua restaurante,4
+Maria,La Parrilla Argentina,5
+Maria,Braza novillo,4
+Maria,Taste of Asia,1
+Maria,Green Oasis,3
 Maria,Italianissimo,4
+Maria,El novillo alegre,4
+Maria,Chicken Express,2
+Maria,KFC,2
+Maria,Mexican Delights,4
+Maria,Italiano Bella,5
+Maria,Mama Mia,4
 Maria,Vegan food,2
-Maria,Sushi Sensei,1
-Andres,Italianissimo,1
-Andres,El novillo alegre,3
-Andres,Taj Mahal,4
-Andres,La Parrilla Argentina,3
-Andres,Patio verde,3
-Andres,Plato Azteca,5
-Andres,Venezia qui,2
+Andres,Thai cuisine,5
+Andres,Green leaf,2
+Andres,Mama Mia,1
+Andres,Mexican Delights,4
+Andres,Green Oasis,1
+Andres,Asian Fusion Delights,5
+Andres,Sushi Heaven,1
+Andres,Veggie Delights,2
+Andres,Grill Masters,2
+Andres,TacoBell,4
+Andres,La Parrilla Argentina,1
+Andres,Taste of Asia,4
+Andres,Vegan food,3
 Andres,Braza novillo,3
-Andres,Sakura Japanise,3
-Andres,Sushi Sensei,3
-Andres,Benvenuti Italia,2
-Andres,Vegan food,2
-Laura,Mexicanos,5
-Laura,Noguchi sushi,1
+Andres,Taj Mahal,4
+Andres,Sushi Sensei,2
+Andres,Burger King,5
+Andres,Mexican Fiesta,5
+Andres,Noguchi sushi,3
+Andres,Plato Azteca,5
+Andres,Italian Elegance,3
+Andres,Asian Flavor Fusion,4
+Andres,Grill House,3
+Andres,KFC,4
+Andres,Vegetarian Delight,2
+Andres,Chicken Express,5
 Laura,Thai cuisine,3
-Laura,Taj Mahal,1
-Laura,Benvenuti Italia,5
-Laura,El novillo alegre,1
-Laura,McDonalds,5
+Laura,Ajua restaurante,5
 Laura,TacoBell,5
-Laura,Patio verde,1
-Laura,Sakura Japanise,1
+Laura,Italian Elegance,4
+Laura,Mexicanos,5
+Laura,Asian Flavor Fusion,3
+Laura,Mexican Fiesta,4
+Laura,Asian Fusion Delights,3
+Laura,Venezia qui,4
+Laura,Italiano Bella,4
+Laura,Sushi Heaven,3
+Laura,Burger King,4
+Laura,Taste of Asia,2
+Laura,Sushi Masters,1
+Laura,Italianissimo,4
+Laura,Vegan food,2
+Laura,Plato Azteca,4
 Laura,La Parrilla Argentina,1
-Laura,Vegan food,1
+Laura,Grill Masters,1
+Laura,Vegetarian Delight,3
+Laura,Guadalajara Platter,4
+Laura,Far East Flavors,2
+Laura,Sushi Sensations,3
+Laura,Mexican Delights,4
+Laura,Veggie Delights,3
+Laura,El novillo alegre,1
+Pedro,Noguchi sushi,5
+Pedro,Italiano Bella,5
+Pedro,Asian Fusion Delights,2
+Pedro,Braza novillo,3
+Pedro,Plato Azteca,3
+Pedro,Mexican Fiesta,2
+Pedro,Thai cuisine,1
+Pedro,Chicken Express,1
+Pedro,Asian Flavor Fusion,3
+Pedro,TacoBell,2
+Pedro,El novillo alegre,3
 Pedro,KFC,2
-Pedro,Plato Azteca,2
-Pedro,Sushi Sensei,4
-Pedro,Taj Mahal,1
-Pedro,Sakura Japanise,5
+Pedro,Far East Flavors,1
+Pedro,Green Oasis,5
+Pedro,Benvenuti Italia,4
 Pedro,Vegan food,4
-Pedro,Noguchi sushi,4
-Pedro,El novillo alegre,2
-Pedro,Ajua restaurante,3
-Pedro,Braza novillo,2
-Pedro,Asian Flavor Fusion,1
-Pedro,McDonalds,2
-Isabel,Ajua restaurante,1
-Isabel,Sushi Sensei,4
-Isabel,Patio verde,5
-Isabel,Venezia qui,1
+Pedro,Mama Mia,4
+Pedro,Green leaf,4
+Pedro,Fried Chicken Express,3
+Pedro,La Parrilla Argentina,3
+Pedro,Veggie Delights,5
+Pedro,Taj Mahal,3
+Pedro,Sushi Sensei,5
+Pedro,Italian Elegance,5
+Pedro,Sushi Masters,5
+Pedro,Guadalajara Platter,2
+Isabel,Sakura Japanise,4
+Isabel,Venezia qui,3
+Isabel,TacoBell,2
 Isabel,Taj Mahal,4
-Isabel,McDonalds,1
-Isabel,Mexicanos,1
-Isabel,Asian Flavor Fusion,4
-Isabel,TacoBell,3
-Isabel,Sakura Japanise,5
-Isabel,Noguchi sushi,4
+Isabel,Vegetarian Delight,4
+Isabel,Mexican Fiesta,3
+Isabel,Asian Flavor Fusion,5
+Isabel,Sushi Heaven,4
+Isabel,El novillo alegre,1
+Isabel,Noguchi sushi,5
+Isabel,Grill Masters,3
+Isabel,Vegan food,4
+Isabel,Benvenuti Italia,2
+Isabel,Italianissimo,3
+Isabel,Asian Fusion Delights,5
+Isabel,La Parrilla Argentina,1
+Isabel,Guadalajara Platter,3
+Isabel,Mama Mia,2
+Isabel,Fried Chicken Express,2
+Isabel,Grill House,2
+Isabel,Steakhouse Paradise,2
 Isabel,Green leaf,5
-Antonio,Sakura Japanise,2
-Antonio,McDonalds,1
-Antonio,Venezia qui,4
-Antonio,Taj Mahal,3
-Antonio,Patio verde,2
-Antonio,Thai cuisine,1
-Antonio,Vegan food,2
-Antonio,TacoBell,1
-Antonio,Sushi Sensei,3
-Antonio,El novillo alegre,5
+Isabel,Green Oasis,5
+Isabel,Braza novillo,3
+Isabel,Chicken Express,3
+Isabel,Veggie Delights,4
+Antonio,El novillo alegre,4
+Antonio,Sushi Masters,3
 Antonio,Braza novillo,5
-Antonio,Mexicanos,4
-Ana,Sushi Sensei,2
-Ana,Italianissimo,3
-Ana,Asian Flavor Fusion,4
-Ana,Mexicanos,4
-Ana,El novillo alegre,1
-Ana,Plato Azteca,4
-Ana,TacoBell,5
-Ana,Ajua restaurante,5
-Ana,McDonalds,4
+Antonio,Far East Flavors,2
+Antonio,Burger King,2
+Antonio,KFC,3
+Antonio,Mexican Delights,5
+Antonio,McDonalds,3
+Antonio,TacoBell,3
+Antonio,Guadalajara Platter,5
+Antonio,Vegan food,3
+Antonio,Sushi Heaven,3
+Antonio,Taste of Asia,2
+Antonio,Benvenuti Italia,5
+Antonio,Taj Mahal,2
+Antonio,Chicken Express,1
+Antonio,Patio verde,1
+Antonio,Sushi Sensations,3
+Antonio,Mama Mia,5
+Antonio,Asian Fusion Delights,3
+Antonio,Steakhouse Paradise,5
+Antonio,Green leaf,1
+Antonio,Italianissimo,5
+Antonio,Thai cuisine,2
+Antonio,Vegetarian Delight,3
+Antonio,Italian Elegance,4
+Ana,Ajua restaurante,4
+Ana,Grill Masters,1
 Ana,KFC,5
-Ana,Green leaf,3
-Ana,Benvenuti Italia,2
+Ana,Sakura Japanise,1
+Ana,Green leaf,1
+Ana,Sushi Heaven,2
+Ana,Mexicanos,4
+Ana,Steakhouse Paradise,2
+Ana,Asian Fusion Delights,4
+Ana,Asian Flavor Fusion,5
+Ana,El novillo alegre,1
+Ana,Thai cuisine,4
+Ana,Guadalajara Platter,5
+Ana,Italiano Bella,3
+Ana,La Parrilla Argentina,3
+Ana,Taste of Asia,4
+Ana,Italian Elegance,2
+Ana,McDonalds,5
+Ana,TacoBell,5
+Ana,Noguchi sushi,3
+Ana,Green Oasis,2
+Ana,Far East Flavors,5
+Ana,Mexican Delights,5
+Ana,Plato Azteca,5
+Ana,Sushi Sensations,3
+Ana,Burger King,5
+Alberto,Grill House,2
+Alberto,Chicken Express,5
+Alberto,KFC,4
+Alberto,Venezia qui,5
+Alberto,Sakura Japanise,4
+Alberto,Sushi Sensations,4
+Alberto,McDonalds,5
+Alberto,Mexican Delights,3
+Alberto,Mexican Fiesta,3
+Alberto,Plato Azteca,1
+Alberto,Taste of Asia,1
+Alberto,Ajua restaurante,3
+Alberto,Grill Masters,1
+Alberto,Sushi Masters,5
+Alberto,La Parrilla Argentina,3
+Alberto,Green Oasis,3
+Alberto,Asian Fusion Delights,3
+Alberto,TacoBell,4
+Alberto,Mama Mia,4
+Alberto,Italiano Bella,4
+Alberto,Vegan food,1
+Alberto,Guadalajara Platter,3
+Alberto,Sushi Sensei,5
+Alberto,Green leaf,1
+Alberto,Asian Flavor Fusion,3
+Alberto,Mexicanos,1
+Beatriz,Grill Masters,2
+Beatriz,Italianissimo,5
+Beatriz,Green leaf,4
+Beatriz,Vegan food,4
+Beatriz,El novillo alegre,3
+Beatriz,McDonalds,1
+Beatriz,Guadalajara Platter,4
+Beatriz,TacoBell,2
+Beatriz,Far East Flavors,3
+Beatriz,Mexican Delights,4
+Beatriz,Sakura Japanise,3
+Beatriz,Noguchi sushi,1
+Beatriz,Plato Azteca,5
+Beatriz,La Parrilla Argentina,2
+Beatriz,Taste of Asia,2
+Beatriz,Mama Mia,4
+Beatriz,Taj Mahal,3
+Beatriz,KFC,1
+Beatriz,Green Oasis,4
+Beatriz,Sushi Masters,1
+Beatriz,Braza novillo,2
+Beatriz,Veggie Delights,5
+Beatriz,Sushi Heaven,1
+Beatriz,Italiano Bella,4
+Beatriz,Sushi Sensei,3
+Beatriz,Fried Chicken Express,2
+Diana,Chicken Express,3
+Diana,Patio verde,3
+Diana,TacoBell,2
+Diana,Italiano Bella,4
+Diana,Mexican Fiesta,4
+Diana,Ajua restaurante,4
+Diana,Vegan food,2
+Diana,Fried Chicken Express,2
+Diana,Sakura Japanise,1
+Diana,Steakhouse Paradise,4
+Diana,Mexicanos,5
+Diana,Mama Mia,5
+Diana,Grill Masters,5
+Diana,Asian Fusion Delights,2
+Diana,La Parrilla Argentina,5
+Diana,Sushi Sensations,1
+Diana,McDonalds,1
+Diana,Asian Flavor Fusion,3
+Diana,Burger King,3
+Diana,Plato Azteca,4
+Diana,El novillo alegre,5
+Diana,Sushi Masters,1
+Diana,KFC,3
+Diana,Vegetarian Delight,3
+Diana,Green Oasis,1
+Diana,Taj Mahal,1
+Eduardo,Vegetarian Delight,2
+Eduardo,Chicken Express,4
+Eduardo,Veggie Delights,3
+Eduardo,Sakura Japanise,3
+Eduardo,Far East Flavors,5
+Eduardo,Thai cuisine,5
+Eduardo,McDonalds,4
+Eduardo,Taste of Asia,5
+Eduardo,Sushi Sensations,3
+Eduardo,La Parrilla Argentina,3
+Eduardo,Grill Masters,3
+Eduardo,Italianissimo,3
+Eduardo,Venezia qui,1
+Eduardo,Guadalajara Platter,5
+Eduardo,El novillo alegre,2
+Eduardo,Green Oasis,2
+Eduardo,Grill House,3
+Eduardo,Steakhouse Paradise,3
+Eduardo,Fried Chicken Express,5
+Eduardo,Braza novillo,1
+Eduardo,Italiano Bella,2
+Eduardo,Patio verde,1
+Eduardo,Mexican Fiesta,4
+Eduardo,TacoBell,5
+Eduardo,Taj Mahal,4
+Eduardo,Plato Azteca,5
+Fernanda,Sushi Masters,5
+Fernanda,Mexican Fiesta,2
+Fernanda,TacoBell,5
+Fernanda,Patio verde,2
+Fernanda,Italianissimo,4
+Fernanda,El novillo alegre,2
+Fernanda,Mama Mia,5
+Fernanda,Fried Chicken Express,4
+Fernanda,Braza novillo,3
+Fernanda,McDonalds,5
+Fernanda,Plato Azteca,1
+Fernanda,Burger King,5
+Fernanda,Steakhouse Paradise,2
+Fernanda,Italian Elegance,5
+Fernanda,Chicken Express,4
+Fernanda,Vegetarian Delight,2
+Fernanda,Guadalajara Platter,3
+Fernanda,Venezia qui,5
+Fernanda,Green Oasis,1
+Fernanda,Vegan food,3
+Fernanda,Taste of Asia,3
+Fernanda,Mexican Delights,2
+Fernanda,KFC,4
+Fernanda,Asian Fusion Delights,3
+Fernanda,Sushi Sensei,4
+Fernanda,Sushi Sensations,4
+Gabriel,Mexicanos,5
+Gabriel,TacoBell,2
+Gabriel,Burger King,3
+Gabriel,Vegetarian Delight,4
+Gabriel,Green leaf,4
+Gabriel,Italian Elegance,5
+Gabriel,Asian Fusion Delights,3
+Gabriel,Mama Mia,5
+Gabriel,McDonalds,1
+Gabriel,Sushi Heaven,2
+Gabriel,Guadalajara Platter,4
+Gabriel,Steakhouse Paradise,3
+Gabriel,Chicken Express,3
+Gabriel,Grill House,1
+Gabriel,Ajua restaurante,5
+Gabriel,Taj Mahal,2
+Gabriel,Braza novillo,1
+Gabriel,Italianissimo,5
+Gabriel,Noguchi sushi,1
+Gabriel,Grill Masters,1
+Gabriel,KFC,2
+Gabriel,Asian Flavor Fusion,2
+Gabriel,Sushi Sensations,1
+Gabriel,La Parrilla Argentina,1
+Gabriel,Green Oasis,4
+Gabriel,Thai cuisine,2
+Hector,Plato Azteca,3
+Hector,La Parrilla Argentina,1
+Hector,Taste of Asia,4
+Hector,Italian Elegance,1
+Hector,Patio verde,5
+Hector,Veggie Delights,4
+Hector,Asian Flavor Fusion,5
+Hector,TacoBell,2
+Hector,Vegetarian Delight,5
+Hector,Grill Masters,2
+Hector,KFC,3
+Hector,Sushi Sensations,4
+Hector,Mexican Delights,1
+Hector,Fried Chicken Express,3
+Hector,Braza novillo,3
+Hector,Mexicanos,1
+Hector,Guadalajara Platter,2
+Hector,Sakura Japanise,5
+Hector,Noguchi sushi,5
+Hector,Steakhouse Paradise,3
+Hector,Sushi Masters,5
+Hector,Mexican Fiesta,1
+Hector,Far East Flavors,4
+Hector,Italiano Bella,2
+Hector,Thai cuisine,5
+Hector,Chicken Express,2
+Irene,Steakhouse Paradise,5
+Irene,Guadalajara Platter,4
+Irene,KFC,3
+Irene,Green leaf,1
+Irene,Sushi Sensei,2
+Irene,Italiano Bella,4
+Irene,Italian Elegance,5
+Irene,Benvenuti Italia,5
+Irene,Noguchi sushi,3
+Irene,TacoBell,2
+Irene,Chicken Express,2
+Irene,Fried Chicken Express,2
+Irene,Far East Flavors,3
+Irene,Green Oasis,1
+Irene,Sakura Japanise,1
+Irene,Taj Mahal,3
+Irene,Italianissimo,5
+Irene,Asian Fusion Delights,3
+Irene,El novillo alegre,4
+Irene,Asian Flavor Fusion,3
+Irene,Plato Azteca,4
+Irene,Taste of Asia,2
+Irene,Venezia qui,5
+Irene,Braza novillo,4
+Irene,Ajua restaurante,5
+Irene,Mexican Fiesta,4
+Javier,Venezia qui,1
+Javier,La Parrilla Argentina,3
+Javier,Italianissimo,3
+Javier,Sushi Heaven,1
+Javier,Mexicanos,4
+Javier,Taj Mahal,5
+Javier,Steakhouse Paradise,1
+Javier,TacoBell,4
+Javier,Plato Azteca,5
+Javier,Mexican Fiesta,5
+Javier,Asian Fusion Delights,5
+Javier,Benvenuti Italia,1
+Javier,Chicken Express,4
+Javier,Ajua restaurante,5
+Javier,Far East Flavors,4
+Javier,Braza novillo,1
+Javier,Green leaf,2
+Javier,Mexican Delights,4
+Javier,Fried Chicken Express,4
+Javier,Sakura Japanise,2
+Javier,Patio verde,3
+Javier,Asian Flavor Fusion,5
+Javier,Grill House,1
+Javier,Mama Mia,2
+Javier,Green Oasis,2
+Javier,Noguchi sushi,2
+Karla,Mama Mia,4
+Karla,Mexican Fiesta,3
+Karla,Italianissimo,5
+Karla,Steakhouse Paradise,3
+Karla,Green Oasis,1
+Karla,Sushi Sensei,4
+Karla,La Parrilla Argentina,1
+Karla,Benvenuti Italia,5
+Karla,Vegan food,1
+Karla,Taste of Asia,3
+Karla,KFC,5
+Karla,Italiano Bella,4
+Karla,Mexicanos,2
+Karla,TacoBell,5
+Karla,Guadalajara Platter,3
+Karla,Asian Fusion Delights,2
+Karla,Italian Elegance,4
+Karla,Veggie Delights,2
+Karla,Sushi Sensations,5
+Karla,Patio verde,1
+Karla,Ajua restaurante,3
+Karla,Noguchi sushi,5
+Karla,Grill House,2
+Karla,Plato Azteca,1
+Karla,Fried Chicken Express,5
+Karla,Braza novillo,3
+Luisa,Ajua restaurante,5
+Luisa,Mexicanos,4
+Luisa,Venezia qui,4
+Luisa,Sakura Japanise,2
+Luisa,Sushi Sensations,3
+Luisa,Taste of Asia,3
+Luisa,Benvenuti Italia,5
+Luisa,Sushi Heaven,3
+Luisa,Grill House,1
+Luisa,Asian Flavor Fusion,2
+Luisa,Green Oasis,4
+Luisa,Guadalajara Platter,5
+Luisa,Fried Chicken Express,3
+Luisa,Braza novillo,1
+Luisa,Plato Azteca,5
+Luisa,Patio verde,5
+Luisa,Vegan food,4
+Luisa,Far East Flavors,3
+Luisa,La Parrilla Argentina,1
+Luisa,Mexican Delights,4
+Luisa,Taj Mahal,2
+Luisa,Veggie Delights,4
+Luisa,Steakhouse Paradise,2
+Luisa,Chicken Express,3
+Luisa,Sushi Masters,1
+Luisa,McDonalds,2
+Mario,Sushi Heaven,4
+Mario,Steakhouse Paradise,3
+Mario,Plato Azteca,2
+Mario,Venezia qui,3
+Mario,Vegetarian Delight,5
+Mario,Asian Flavor Fusion,4
+Mario,Green leaf,4
+Mario,La Parrilla Argentina,1
+Mario,Chicken Express,3
+Mario,TacoBell,3
+Mario,Braza novillo,2
+Mario,KFC,1
+Mario,Sushi Masters,5
+Mario,Far East Flavors,5
+Mario,Veggie Delights,5
+Mario,Mexicanos,3
+Mario,Italian Elegance,2
+Mario,Mama Mia,2
+Mario,Grill House,1
+Mario,El novillo alegre,2
+Mario,Patio verde,4
+Mario,Vegan food,4
+Mario,Mexican Delights,3
+Mario,Sakura Japanise,5
+Mario,Noguchi sushi,4
+Mario,Benvenuti Italia,3
+Natalia,Chicken Express,1
+Natalia,Grill Masters,4
+Natalia,Sushi Masters,3
+Natalia,Guadalajara Platter,5
+Natalia,Green leaf,3
+Natalia,TacoBell,3
+Natalia,Mexicanos,4
+Natalia,Italian Elegance,4
+Natalia,Sushi Sensations,1
+Natalia,Venezia qui,4
+Natalia,McDonalds,2
+Natalia,Patio verde,2
+Natalia,Asian Fusion Delights,3
+Natalia,Taj Mahal,1
+Natalia,Vegan food,1
+Natalia,Vegetarian Delight,2
+Natalia,Italianissimo,4
+Natalia,Italiano Bella,5
+Natalia,Grill House,4
+Natalia,Asian Flavor Fusion,3
+Natalia,Veggie Delights,2
+Natalia,Thai cuisine,3
+Natalia,KFC,3
+Natalia,Burger King,1
+Natalia,Sushi Sensei,3
+Natalia,Fried Chicken Express,3
+Omar,Plato Azteca,4
+Omar,Sakura Japanise,1
+Omar,Grill House,3
+Omar,Sushi Masters,2
+Omar,McDonalds,5
+Omar,Sushi Sensei,1
+Omar,Guadalajara Platter,4
+Omar,Mama Mia,1
+Omar,Green leaf,2
+Omar,Taj Mahal,5
+Omar,Sushi Heaven,3
+Omar,Noguchi sushi,3
+Omar,Asian Flavor Fusion,5
+Omar,Asian Fusion Delights,4
+Omar,Italiano Bella,2
+Omar,La Parrilla Argentina,1
+Omar,Steakhouse Paradise,3
+Omar,Venezia qui,3
+Omar,Italian Elegance,3
+Omar,Mexican Fiesta,5
+Omar,TacoBell,4
+Omar,Far East Flavors,5
+Omar,Patio verde,2
+Omar,Veggie Delights,2
+Omar,Italianissimo,3
+Omar,Fried Chicken Express,5
+Patricia,Plato Azteca,2
+Patricia,Green Oasis,2
+Patricia,Taj Mahal,2
+Patricia,Sushi Heaven,5
+Patricia,TacoBell,4
+Patricia,Mexican Delights,1
+Patricia,Asian Fusion Delights,3
+Patricia,KFC,4
+Patricia,Far East Flavors,3
+Patricia,Italiano Bella,4
+Patricia,Mexican Fiesta,2
+Patricia,Vegetarian Delight,2
+Patricia,Italianissimo,5
+Patricia,Thai cuisine,3
+Patricia,Veggie Delights,2
+Patricia,Chicken Express,5
+Patricia,Sushi Sensations,4
+Patricia,Mexicanos,1
+Patricia,La Parrilla Argentina,3
+Patricia,Sushi Masters,5
+Patricia,Green leaf,1
+Patricia,El novillo alegre,2
+Patricia,Ajua restaurante,1
+Patricia,Mama Mia,5
+Patricia,Sakura Japanise,4
+Patricia,Grill Masters,1
+Quintín,Chicken Express,2
+Quintín,El novillo alegre,1
+Quintín,Italian Elegance,4
+Quintín,Mexican Fiesta,5
+Quintín,Sakura Japanise,1
+Quintín,Patio verde,4
+Quintín,Mama Mia,5
+Quintín,Italianissimo,4
+Quintín,Asian Fusion Delights,1
+Quintín,Grill Masters,2
+Quintín,Green leaf,5
+Quintín,Vegetarian Delight,4
+Quintín,KFC,1
+Quintín,Italiano Bella,5
+Quintín,Burger King,2
+Quintín,TacoBell,2
+Quintín,McDonalds,1
+Quintín,Sushi Sensations,1
+Quintín,Thai cuisine,1
+Quintín,La Parrilla Argentina,1
+Quintín,Grill House,1
+Quintín,Far East Flavors,2
+Quintín,Guadalajara Platter,4
+Quintín,Asian Flavor Fusion,3
+Quintín,Taste of Asia,3
+Quintín,Fried Chicken Express,3
+Rosa,Venezia qui,2
+Rosa,El novillo alegre,1
+Rosa,La Parrilla Argentina,2
+Rosa,Italianissimo,3
+Rosa,Taj Mahal,5
+Rosa,Fried Chicken Express,1
+Rosa,Vegetarian Delight,4
+Rosa,Green leaf,5
+Rosa,Guadalajara Platter,2
+Rosa,Sushi Sensations,5
+Rosa,Thai cuisine,5
+Rosa,Mexicanos,1
+Rosa,Veggie Delights,4
+Rosa,Sushi Sensei,5
+Rosa,Plato Azteca,2
+Rosa,Vegan food,5
+Rosa,Asian Flavor Fusion,5
+Rosa,Grill Masters,2
+Rosa,Steakhouse Paradise,1
+Rosa,Asian Fusion Delights,5
+Rosa,Benvenuti Italia,2
+Rosa,Noguchi sushi,4
+Rosa,Braza novillo,1
+Rosa,Far East Flavors,5
+Rosa,Sakura Japanise,5
+Rosa,Patio verde,5
+Sergio,TacoBell,3
+Sergio,Sakura Japanise,3
+Sergio,Grill House,4
+Sergio,McDonalds,2
+Sergio,Asian Fusion Delights,1
+Sergio,Far East Flavors,2
+Sergio,Veggie Delights,2
+Sergio,Sushi Sensei,2
+Sergio,Sushi Masters,1
+Sergio,La Parrilla Argentina,5
+Sergio,Taste of Asia,3
+Sergio,Vegan food,2
+Sergio,Patio verde,1
+Sergio,Noguchi sushi,1
+Sergio,Mexican Delights,5
+Sergio,Venezia qui,5
+Sergio,Sushi Heaven,1
+Sergio,Mexican Fiesta,4
+Sergio,Mexicanos,4
+Sergio,Vegetarian Delight,3
+Sergio,Thai cuisine,3
+Sergio,Asian Flavor Fusion,2
+Sergio,Sushi Sensations,1
+Sergio,Chicken Express,2
+Sergio,Green leaf,3
+Sergio,Guadalajara Platter,5
+Tania,Italianissimo,1
+Tania,La Parrilla Argentina,1
+Tania,Plato Azteca,4
+Tania,Green leaf,1
+Tania,Far East Flavors,5
+Tania,Asian Fusion Delights,4
+Tania,Sushi Heaven,2
+Tania,Green Oasis,1
+Tania,Vegan food,1
+Tania,Braza novillo,3
+Tania,Vegetarian Delight,1
+Tania,Italiano Bella,3
+Tania,TacoBell,5
+Tania,Grill Masters,1
+Tania,Chicken Express,5
+Tania,Taste of Asia,5
+Tania,Mama Mia,1
+Tania,Sushi Sensations,1
+Tania,Thai cuisine,4
+Tania,Mexican Delights,5
+Tania,Benvenuti Italia,3
+Tania,Venezia qui,2
+Tania,Mexican Fiesta,4
+Tania,Italian Elegance,2
+Tania,Sakura Japanise,1
+Tania,McDonalds,4
