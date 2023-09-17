@@ -21,10 +21,7 @@ usuarios = [
     {"nombre": "Pedro", "preferencias": ["comida_vegetariana", "comida_italiana", "sushi"]},
     {"nombre": "Isabel", "preferencias": ["comida_vegetariana", "comida_asiatica", "sushi"]},
     {"nombre": "Antonio", "preferencias": ["comida_carnes", "comida_mexicana", "comida_italiana"]},
-    {"nombre": "Ana", "preferencias": ["comida_rapida", "comida_asiatica", "comida_mexicana"]}
-    ###nuevos
-    ,
-    
+    {"nombre": "Ana", "preferencias": ["comida_rapida", "comida_asiatica", "comida_mexicana"]},
     {"nombre": "Alberto", "preferencias": ["comida_rapida", "comida_italiana", "sushi"]},
     {"nombre": "Beatriz", "preferencias": ["comida_vegetariana", "comida_italiana", "comida_mexicana"]},
     {"nombre": "Diana", "preferencias": ["comida_carnes", "comida_mexicana", "comida_italiana"]},
@@ -68,9 +65,7 @@ restaurantes = [
     {"nombre": "Venezia qui", "tipo_comida": ["comida_italiana"]},
     {"nombre": "Noguchi sushi", "tipo_comida": ["sushi"]},
     {"nombre": "Thai cuisine", "tipo_comida": ["comida_asiatica"]},
-    {"nombre": "Plato Azteca", "tipo_comida": ["comida_mexicana"]}
-    ###nuevos----
-    ,
+    {"nombre": "Plato Azteca", "tipo_comida": ["comida_mexicana"]},
     {"nombre": "Burger King", "tipo_comida": ["comida_rapida"]},
     {"nombre": "Vegetarian Delight", "tipo_comida": ["comida_vegetariana"]},
     {"nombre": "Steakhouse Paradise", "tipo_comida": ["comida_carnes"]},
@@ -95,11 +90,11 @@ restaurantes = [
 
 ]
 
-# Función para generar calificaciones coherentes para un usuario
+# Esta función genera calificaciones coherentes para un usuario
 def generar_calificaciones(usuario, registros):
     calificaciones = []
     for _ in range(26):
-        # Elegir un restaurante al azar que no haya sido calificado previamente por el usuario
+        # Elige un restaurante al azar que no haya sido calificado previamente por el usuario
         restaurantes_no_calificados = [restaurante for restaurante in restaurantes if restaurante["nombre"] not in registros[usuario["nombre"]]]
         if not restaurantes_no_calificados:
             break  # Si el usuario ha calificado todos los restaurantes, salir del bucle
@@ -107,7 +102,7 @@ def generar_calificaciones(usuario, registros):
         restaurante = random.choice(restaurantes_no_calificados)
         registros[usuario["nombre"]].append(restaurante["nombre"])  # Registrar el restaurante calificado
         
-        # Verificar si el restaurante es coherente con las preferencias del usuario
+        # Verifica si el restaurante es coherente con las preferencias del usuario
         for preferencia in usuario["preferencias"]:
             if preferencia in restaurante["tipo_comida"]:
                 calificacion = random.randint(4, 5)  # Calificación positiva
