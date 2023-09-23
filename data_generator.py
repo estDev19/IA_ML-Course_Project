@@ -59,7 +59,7 @@ restaurantes = [
     {"nombre": "Sushi Sensei", "tipo_comida": ["sushi"]},
     {"nombre": "Asian Flavor Fusion", "tipo_comida": ["comida_asiatica"]},
     {"nombre": "Mexicanos", "tipo_comida": ["comida_mexicana"]},
-    {"nombre": "KFC", "tipo_comida": ["comida_rapida"]},
+     {"nombre": "KFC", "tipo_comida": ["comida_rapida"]},
     {"nombre": "Vegan food", "tipo_comida": ["comida_vegetariana"]},
     {"nombre": "Braza novillo", "tipo_comida": ["comida_carnes"]},
     {"nombre": "Venezia qui", "tipo_comida": ["comida_italiana"]},
@@ -87,6 +87,7 @@ restaurantes = [
     {"nombre": "Sushi Sensations", "tipo_comida": ["sushi"]},
     {"nombre": "Taste of Asia", "tipo_comida": ["comida_asiatica"]},
     {"nombre": "Guadalajara Platter", "tipo_comida": ["comida_mexicana"]}
+
 ]
 
 # Esta función genera calificaciones coherentes para un usuario
