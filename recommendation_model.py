@@ -1,4 +1,4 @@
-#Autor: Esteban Castro Oviedo, setiembre 2023
+#Author: Esteban Castro Oviedo, September 2023
 #Importación de todas las librerías necesarias, numpy y pandas para el manejo de datos, matplotlib y seaborn para visualización (gráfico),
 #y las clases y funciones necesarias de la biblioteca surprise, que se utilizarán para la construcción del sistema de recomendación.
 import numpy as np   

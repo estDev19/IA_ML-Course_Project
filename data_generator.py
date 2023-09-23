@@ -1,4 +1,4 @@
-#Autor: Esteban Castro Oviedo, setiembre 2023
+#Author: Esteban Castro Oviedo, September 2023
 import random
 
 # Lista de usuarios y sus preferencias de comida
