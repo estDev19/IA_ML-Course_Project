@@ -10,7 +10,7 @@ from surprise import SVD
 from surprise.model_selection import GridSearchCV, cross_validate
 
 #Cargar los datos desde un archivo CSV llamado "restautant_data.CSV" usando pd.read_csv de pandas. Se le llama df de "data frame"
-df = pd.read_csv("restaurant_data.csv")
+df = pd.read_csv('restaurant_data.csv')# ***Si hay errores con la ruta, cambiar la ruta por la dirección completa donde se aloje el documento
 
 #Se crea  de un lector de surprise para interpretar las calificaciones en un rango de 1-5
 reader = Reader(rating_scale=(1, 5))
